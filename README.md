@@ -21,7 +21,7 @@ git clone https://github.com/gransottodev/tailwind-spotify.git
 ## 🛠️ Construído com as seguintes ferramentas:
 
 * [React](https://react.dev)
-* [TailwindCss](https://lucide.dev)
+* [TailwindCss](https://tailwindui.com/)
 * [LucideIcons](https://lucide.dev)
 
 ---
